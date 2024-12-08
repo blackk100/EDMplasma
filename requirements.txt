@@ -1,0 +1,12 @@
+setuptools
+packaging
+pyaml
+jinja2
+xmltodict
+numpy
+sympy
+pandas
+deepdiff
+matplotlib
+requests
+paramiko
